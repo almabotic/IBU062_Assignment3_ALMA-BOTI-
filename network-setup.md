@@ -29,6 +29,8 @@ IP address: 210.3.14.3
 Server2:
 IP address: 210.3.14.4
 
+Configuration steps
+
 DHCP Configuration Steps (Switch1)
 enable 
 config t
